@@ -16,8 +16,6 @@ Logomark – digital version of my personal symbol
 
 Infographic – final PDF/image showing identity system
 
-Optional Process Artefacts – early sketches and design iterations
-
 Purpose
 
 This repository extends my infographic professionally, showing intention, clarity, and ownership over my identity design.
